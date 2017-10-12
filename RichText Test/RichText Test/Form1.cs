@@ -48,7 +48,9 @@ namespace RichText_Test
                 
                 b = (byte)str[i];
                 if (b == 10 || b == 13)
+                {
                     newStr[i] = ' ';
+                }
                 else
                 {
                     newStr[i] = str[i];
