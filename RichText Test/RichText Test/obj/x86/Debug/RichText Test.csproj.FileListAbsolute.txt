@@ -6,3 +6,11 @@ C:\Projects All\Software Test\RichText Test\RichText Test\obj\x86\Debug\RichText
 C:\Projects All\Software Test\RichText Test\RichText Test\obj\x86\Debug\RichText Test.exe
 C:\Projects All\Software Test\RichText Test\RichText Test\obj\x86\Debug\RichText Test.pdb
 C:\Projects All\Software Test\RichText Test\RichText Test\obj\x86\Debug\RichText Test.csprojResolveAssemblyReference.cache
+C:\Users\markc_000\Documents\GitHub\Test2\RichText Test\RichText Test\obj\x86\Debug\RichText Test.exe
+C:\Users\markc_000\Documents\GitHub\Test2\RichText Test\RichText Test\obj\x86\Debug\RichText Test.pdb
+C:\Users\markc_000\Documents\GitHub\Test2\RichText Test\RichText Test\bin\Debug\RichText Test.exe
+C:\Users\markc_000\Documents\GitHub\Test2\RichText Test\RichText Test\bin\Debug\RichText Test.pdb
+C:\Users\markc_000\Documents\GitHub\Test2\RichText Test\RichText Test\obj\x86\Debug\RichText Test.csprojResolveAssemblyReference.cache
+C:\Users\markc_000\Documents\GitHub\Test2\RichText Test\RichText Test\obj\x86\Debug\RichText_Test.Form1.resources
+C:\Users\markc_000\Documents\GitHub\Test2\RichText Test\RichText Test\obj\x86\Debug\RichText_Test.Properties.Resources.resources
+C:\Users\markc_000\Documents\GitHub\Test2\RichText Test\RichText Test\obj\x86\Debug\RichText Test.csproj.GenerateResource.Cache

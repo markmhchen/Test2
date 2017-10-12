@@ -50,7 +50,9 @@ namespace RichText_Test
                 if (b == 10 || b == 13)
                     newStr[i] = ' ';
                 else
+                {
                     newStr[i] = str[i];
+                }
             }
 
             str = new string(newStr);
