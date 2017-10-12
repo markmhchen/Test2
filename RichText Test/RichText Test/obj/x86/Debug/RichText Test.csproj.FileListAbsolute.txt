@@ -1,0 +1,8 @@
+C:\Projects All\Software Test\RichText Test\RichText Test\bin\Debug\RichText Test.exe
+C:\Projects All\Software Test\RichText Test\RichText Test\bin\Debug\RichText Test.pdb
+C:\Projects All\Software Test\RichText Test\RichText Test\obj\x86\Debug\RichText_Test.Form1.resources
+C:\Projects All\Software Test\RichText Test\RichText Test\obj\x86\Debug\RichText_Test.Properties.Resources.resources
+C:\Projects All\Software Test\RichText Test\RichText Test\obj\x86\Debug\RichText Test.csproj.GenerateResource.Cache
+C:\Projects All\Software Test\RichText Test\RichText Test\obj\x86\Debug\RichText Test.exe
+C:\Projects All\Software Test\RichText Test\RichText Test\obj\x86\Debug\RichText Test.pdb
+C:\Projects All\Software Test\RichText Test\RichText Test\obj\x86\Debug\RichText Test.csprojResolveAssemblyReference.cache
