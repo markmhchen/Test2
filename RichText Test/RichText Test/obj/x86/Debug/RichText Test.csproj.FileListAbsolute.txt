@@ -14,3 +14,12 @@ C:\Users\markc_000\Documents\GitHub\Test2\RichText Test\RichText Test\obj\x86\De
 C:\Users\markc_000\Documents\GitHub\Test2\RichText Test\RichText Test\obj\x86\Debug\RichText_Test.Form1.resources
 C:\Users\markc_000\Documents\GitHub\Test2\RichText Test\RichText Test\obj\x86\Debug\RichText_Test.Properties.Resources.resources
 C:\Users\markc_000\Documents\GitHub\Test2\RichText Test\RichText Test\obj\x86\Debug\RichText Test.csproj.GenerateResource.Cache
+E:\Users\Mark Chen\Documents\Test2\RichText Test\RichText Test\bin\Debug\RichText Test.exe
+E:\Users\Mark Chen\Documents\Test2\RichText Test\RichText Test\bin\Debug\RichText Test.pdb
+E:\Users\Mark Chen\Documents\Test2\RichText Test\RichText Test\obj\x86\Debug\RichText Test.csprojResolveAssemblyReference.cache
+E:\Users\Mark Chen\Documents\Test2\RichText Test\RichText Test\obj\x86\Debug\RichText_Test.Form1.resources
+E:\Users\Mark Chen\Documents\Test2\RichText Test\RichText Test\obj\x86\Debug\RichText_Test.Properties.Resources.resources
+E:\Users\Mark Chen\Documents\Test2\RichText Test\RichText Test\obj\x86\Debug\RichText Test.csproj.GenerateResource.Cache
+E:\Users\Mark Chen\Documents\Test2\RichText Test\RichText Test\obj\x86\Debug\RichText Test.csproj.CoreCompileInputs.cache
+E:\Users\Mark Chen\Documents\Test2\RichText Test\RichText Test\obj\x86\Debug\RichText Test.exe
+E:\Users\Mark Chen\Documents\Test2\RichText Test\RichText Test\obj\x86\Debug\RichText Test.pdb

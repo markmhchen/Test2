@@ -27,6 +27,8 @@ namespace RichText_Test
         private void btnAdd_Click(object sender, EventArgs e)
         {
             //richTextBox1.Text = textBox1.Text + "\r\n" + richTextBox1.Text;
+
+            //Add a comment here
             if (color)
             {
                 richTextBox1.SelectionColor = Color.GreenYellow;
